@@ -1,4 +1,3 @@
-```java
 import java.util.HashMap;
 import java.util.Map;
 
@@ -89,4 +88,3 @@ public class UseCase3InventorySetup {
         inventory.displayInventory();
     }
 }
-```

@@ -1,4 +1,3 @@
-```java
 /**
  * UseCase1HotelBookingApp
  * 
@@ -29,4 +28,3 @@ public class UseCase1HotelBookingApp {
 
     }
 }
-```

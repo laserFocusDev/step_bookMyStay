@@ -1,4 +1,3 @@
-```java
 import java.util.HashMap;
 import java.util.Map;
 
@@ -137,4 +136,3 @@ public class UseCase4RoomSearch {
         searchService.searchAvailableRooms(inventory, rooms);
     }
 }
-```
